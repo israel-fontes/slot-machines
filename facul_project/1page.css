@@ -1,0 +1,42 @@
+.fixado{
+    position: fixed;
+    bottom: 0px;
+    margin: 10px;
+    right: 0px;
+    background: linear-gradient(30deg ,rebeccapurple,steelblue,turquoise);
+    border: solid;
+    padding: 15px;
+    
+}
+body{
+    background-color: whitesmoke;
+}
+p{
+    font-size: 25px;
+}
+.gradiente{
+    background-image: linear-gradient(to bottom, rebeccapurple, steelblue, turquoise);
+    color: black;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.pop_up{
+    position: relative;
+    top: 50px;
+}
+iframe{
+    position: relative;
+    left: 20px;
+}
+.kingdom_h{
+    width: 200px;
+    height: 300px;
+    position: relative;
+    bottom: 400px;
+    left: 820px;
+}
+.endier{
+    position: relative;
+    bottom: 190px;
+}
